@@ -1,1 +1,1 @@
-# Waterloo Data Science Club — Neural Network Workshop
+# WDSC — Neural Network Workshop
