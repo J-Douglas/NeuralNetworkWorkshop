@@ -6,12 +6,12 @@ The workshop goes over the math and individual components used to create neural 
 
 ## Presentation
 
-For the workshop, I create a slideshow that went over terms and concepts used in neural networks. You can look at the slideshow here[https://bit.ly/2U0U8Jr].
+For the workshop, I create a slideshow that went over terms and concepts used in neural networks. You can look at the slideshow [here](https://bit.ly/2U0U8Jr).
 
 ## Notebook
 
-I created a notebook to demonstrate two applications of neural networks: a feedforward neural network made from scratch and an ANN made with TensorFlow for classifying images from the Fashion-MNIST dataset (computer vision). You can see the notebook here[https://bit.ly/32pKlRJ] or click on the notebook file in this repository.
+I created a notebook to demonstrate two applications of neural networks: a feedforward neural network made from scratch and an ANN made with TensorFlow for classifying images from the Fashion-MNIST dataset (computer vision). You can see the notebook [here](https://bit.ly/32pKlRJ) or click on the notebook file in this repository.
 
 ## YouTube
 
-The workshop was recorded and uploaded to YouTube! You can watch the video here[https://www.youtube.com/watch?v=Y_YsKhBooOc&ab_channel=UWaterlooDataScience].
+The workshop was recorded and uploaded to YouTube! You can watch the video [here](https://www.youtube.com/watch?v=Y_YsKhBooOc&ab_channel=UWaterlooDataScience).
