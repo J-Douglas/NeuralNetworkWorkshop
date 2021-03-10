@@ -2,7 +2,7 @@
 
 ## Summary
 
-The workshop goes over the math and individual components used to create neural networks. I go over two basic applications: building a feedforward neural network from scratch and classifying images from the Fashion-MNIST dataset (computer vision). At the end of the workshop, I touch on how to create convolutional neural networks (CNN's), which are the most commonly used neural network architecture for computer vision. As one of WDSC's VPs of Education, this was the workshop that I hosted.
+The workshop was presented for the Waterloo Data Science Club (WDSC). In the workshop, I go over the math and individual components used to create neural networks. I show two basic applications: building a feedforward neural network from scratch and classifying images from the Fashion-MNIST dataset (computer vision). At the end of the workshop, I touch on how to create convolutional neural networks (CNN's), which are the most commonly used neural network architecture for computer vision. As one of WDSC's VPs of Education, this was the workshop that I chose to host.
 
 ## Presentation
 
